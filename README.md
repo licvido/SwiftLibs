@@ -1,5 +1,8 @@
 # SwiftLibs
 
+[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat)](https://developer.apple.com/iphone/index.action)
+[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat)](https://developer.apple.com/swift)
+
 List of my favorite swift libraries, frameworks, extensions, tools, examples, etc.
 
 ## Table of Contents

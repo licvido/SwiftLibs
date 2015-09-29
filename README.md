@@ -43,6 +43,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [ImageLoaderSwift](https://github.com/hirohisa/ImageLoaderSwift) - A lightweight and fast image loader for iOS written in Swift.
 * [Toucan](https://github.com/gavinbunney/Toucan) - Fabulous Image Processing in Swift.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
+* [Nuke](https://github.com/kean/Nuke) - Advanced framework for managing images.
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
 
 ## Dispatches

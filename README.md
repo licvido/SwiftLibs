@@ -73,6 +73,10 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger) - A 3D Frogger / Crossy Road clone made with Scene Kit and Swift.
 * [Swift 2048](https://github.com/austinzheng/swift-2048) - 2048 for Swift.
 * [FlappySwift](https://github.com/fullstackio/FlappySwift) - Swift implementation of flappy bird.
+* [JigsawPuzzle](https://github.com/nealCeffrey/JigsawPuzzle) - Simple 9x9 jigsaw puzzle game.
+* [Breakout](https://github.com/nealCeffrey/Breakout) - Simple breakout game.
+* [Simple SpriteKit Game](https://github.com/mihailt/simple-sprite-kit-game) - Simple SpriteKit game with sounds, gestures, dynamic lightning, detect collisions, has splash and shake screen effects.
+* [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
 
 ## Extensions
 

@@ -32,6 +32,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [FillableLoaders](https://github.com/poolqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths written in Swift.
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
+* [iOS Charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 
 ## Networking
 
@@ -61,6 +62,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [ModelRocket](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
 * [JSONWebToken.swift](https://github.com/kylef/JSONWebToken.swift) - Swift implementation of JSON Web Token (JWT).
 * [Gloss](https://github.com/hkellaway/Gloss) - A shiny JSON parsing library in Swift.
+* [Genome](https://github.com/LoganWright/Genome) - A simple, type safe, failure driven mapping library for serializing JSON to models in Swift 2.0 (Supports Linux)
 
 ## Databases
 

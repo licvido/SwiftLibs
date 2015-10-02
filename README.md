@@ -6,15 +6,16 @@
 List of my favorite swift libraries, frameworks, extensions, tools, examples, etc.
 
 ## Table of Contents
-1. [Layout, UI](#layout-ui)
-2. [Networking](#networking)
-3. [Images](#images)
-4. [Dispatches](#dispatches)
-5. [JSON](#json)
-6. [Databases](#databases)
-7. [Games, SceneKit, SpriteKit](#games-scenekit-spritekit)
-8. [Extensions](#extensions)
-9. [Others](#others)
+* [Layout, UI](#layout-ui)
+* [Networking](#networking)
+* [Images](#images)
+* [Dispatches](#dispatches)
+* [JSON](#json)
+* [Databases](#databases)
+* [Games, SceneKit, SpriteKit](#games-scenekit-spritekit)
+* [Caching](#caching)
+* [Extensions](#extensions)
+* [Others](#others)
 
 
 ## Layout, UI
@@ -33,6 +34,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) - Collection of nice loading animations.
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
 * [iOS Charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
+* [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8 written in Swift.
 
 ## Networking
 
@@ -56,6 +58,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - Simple JSON Object mapping written in Swift.
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) - An Alamofire extension which converts JSON response data into swift objects using ObjectMapper.
+* [Unbox](https://github.com/JohnSundell/Unbox) - The easy to use Swift JSON decoder.
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift.
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [Decodable](https://github.com/Anviking/Decodable) - Swift 2 JSON parsing done (more) right.
@@ -77,6 +80,10 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Breakout](https://github.com/nealCeffrey/Breakout) - Simple breakout game.
 * [Simple SpriteKit Game](https://github.com/mihailt/simple-sprite-kit-game) - Simple SpriteKit game with sounds, gestures, dynamic lightning, detect collisions, has splash and shake screen effects.
 * [Orbit7](https://github.com/Mav3r1ck/Orbit7) - Open Source iOS Game created in SpriteKit with Swift.
+
+## Caching
+
+* [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 
 ## Extensions
 

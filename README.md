@@ -96,7 +96,8 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 
 ## Authentication
 
--
+* [OAuth2](https://github.com/p2/OAuth2) - OAuth2 framework for OS X and iOS, written in Swift.
+* [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS.
 
 ## Playgrounds
 

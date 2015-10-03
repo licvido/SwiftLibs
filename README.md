@@ -107,3 +107,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 
 * [Design Patterns In Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
 * [Linchi](https://github.com/loiclec/Linchi) - Small web server written in pure Swift, designed for Linux.
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources. Great source!

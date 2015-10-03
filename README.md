@@ -89,6 +89,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
 * [UIColor+Hex](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
+* [EVReflection](https://github.com/evermeer/EVReflection) - Swift helper library with reflection functions with support for NSCoding, Printable, Hashable, Equatable and JSON.
 
 ## Others
 

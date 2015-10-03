@@ -15,6 +15,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Games, SceneKit, SpriteKit](#games-scenekit-spritekit)
 * [Caching](#caching)
 * [Extensions](#extensions)
+* [Playgrounds](#playgrounds)
 * [Others](#others)
 
 
@@ -35,6 +36,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
 * [iOS Charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8 written in Swift.
+* [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Playground to play with UIStackViews.
 
 ## Networking
 
@@ -90,6 +92,10 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [ExSwift](https://github.com/pNre/ExSwift) - A set of Swift extensions for standard types and classes.
 * [UIColor+Hex](https://github.com/yeahdongcn/UIColor-Hex-Swift) - Convenience method for creating autoreleased color using RGBA hex string.
 * [EVReflection](https://github.com/evermeer/EVReflection) - Swift helper library with reflection functions with support for NSCoding, Printable, Hashable, Equatable and JSON.
+
+## Playgrounds
+
+* [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Playground to play with UIStackViews.
 
 ## Others
 

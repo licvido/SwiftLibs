@@ -72,6 +72,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 
 ## Databases
 
+* [Realm](https://github.com/realm/realm-cocoa) - Realm is a mobile database: a replacement for Core Data & SQLite.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 
 ## Games, SceneKit, SpriteKit

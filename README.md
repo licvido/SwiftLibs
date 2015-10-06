@@ -38,6 +38,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [iOS Charts](https://github.com/danielgindi/ios-charts) - An iOS port of the beautiful MPAndroidChart.
 * [CVCalendar](https://github.com/Mozharovsky/CVCalendar) - A custom visual calendar for iOS 8 written in Swift.
 * [UIStackViewPlayground](https://github.com/dasdom/UIStackViewPlayground) - Playground to play with UIStackViews.
+* [CariocaMenu](https://github.com/arn00s/cariocamenu) - CariocaMenu is a simple, elegant, fast, modern, innovative, ..., navigation menu for your iOS app.
 
 ## Networking
 

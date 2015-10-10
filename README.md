@@ -46,6 +46,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
+* [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures.
 
 ## Images
 

@@ -41,6 +41,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [CariocaMenu](https://github.com/arn00s/cariocamenu) - CariocaMenu is a simple, elegant, fast, modern, innovative, ..., navigation menu for your iOS app.
 * [Cartography](https://github.com/robb/Cartography) - A declarative Auto Layout DSL.
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
+* [CardAnimation](https://github.com/seedante/CardAnimation) - There are two style implement, auto layout and frame-based layout.
 
 ## Networking
 

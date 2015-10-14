@@ -42,6 +42,9 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Cartography](https://github.com/robb/Cartography) - A declarative Auto Layout DSL.
 * [FlagKit](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 * [CardAnimation](https://github.com/seedante/CardAnimation) - There are two style implement, auto layout and frame-based layout.
+* [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu using Swift and iOS 8 API's
+* [GearRefreshControl](https://github.com/andreamazz/GearRefreshControl) - A custom animation for the UIRefreshControl.
+* [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift 2.0.
 
 ## Networking
 

@@ -122,3 +122,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [jazzy](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
 * [Swift Radio](https://github.com/swiftcodex/Swift-Radio-Pro) - Professional Radio Station App.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - SwiftWeather is an iOS weather app developed in Swift 2.
+* [LeetCode Solutions in Swift](https://github.com/diwu/LeetCode-Solutions-in-Swift) - Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1.

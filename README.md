@@ -47,6 +47,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers written by swift 2.0.
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift.
 * [StarWars Animation](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces.
+* [Instructions](https://github.com/ephread/Instructions) - Create walkthroughs and coach mark tours in a simple way.
 
 ## Networking
 
@@ -124,3 +125,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Swift Radio](https://github.com/swiftcodex/Swift-Radio-Pro) - Professional Radio Station App.
 * [SwiftWeather](https://github.com/JakeLin/SwiftWeather) - SwiftWeather is an iOS weather app developed in Swift 2.
 * [LeetCode Solutions in Swift](https://github.com/diwu/LeetCode-Solutions-in-Swift) - Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1.
+* [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter) - 3D Touch Application for Weighing Plums (and other small fruit!)

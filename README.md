@@ -48,6 +48,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift.
 * [StarWars Animation](https://github.com/Yalantis/StarWars.iOS) - This component implements transition animation to crumble view-controller into tiny pieces.
 * [Instructions](https://github.com/ephread/Instructions) - Create walkthroughs and coach mark tours in a simple way.
+* [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
 
 ## Networking
 

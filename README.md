@@ -132,3 +132,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [Format](https://github.com/marmelroy/Format) - A Swift Formatter Kit
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift.
+* [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift

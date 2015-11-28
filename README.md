@@ -130,3 +130,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [LeetCode Solutions in Swift](https://github.com/diwu/LeetCode-Solutions-in-Swift) - Get prepared for your next iOS job interview by studying high quality LeetCode solutions in Swift 2.1.
 * [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter) - 3D Touch Application for Weighing Plums (and other small fruit!)
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
+* [Format](https://github.com/marmelroy/Format) - A Swift Formatter Kit

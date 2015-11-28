@@ -131,3 +131,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Plum-O-Meter](https://github.com/FlexMonkey/Plum-O-Meter) - 3D Touch Application for Weighing Plums (and other small fruit!)
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - Server-side Swift. The Perfect library, application server, connectors and example apps.
 * [Format](https://github.com/marmelroy/Format) - A Swift Formatter Kit
+* [Swift-AI](https://github.com/collinhundley/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift.

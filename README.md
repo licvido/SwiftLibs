@@ -133,3 +133,4 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Format](https://github.com/marmelroy/Format) - A Swift Formatter Kit
 * [Swift-AI](https://github.com/collinhundley/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift.
 * [Chatto](https://github.com/badoo/Chatto) - A lightweight framework to build chat applications, made in Swift
+* [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift.

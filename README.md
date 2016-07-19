@@ -50,6 +50,7 @@ List of my favorite swift libraries, frameworks, extensions, tools, examples, et
 * [Instructions](https://github.com/ephread/Instructions) - Create walkthroughs and coach mark tours in a simple way.
 * [TVButton](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons (in Swift).
 * [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) - A gooey effect tabbar
+* [SparkButton](https://github.com/saravananImaginea/SparkButtonDemo) - Demonstrates the SparkButton Animations that reflects the FB's Paper App's Like button animation.
 
 ## Networking
 
